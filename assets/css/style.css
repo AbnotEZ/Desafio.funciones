@@ -1,0 +1,29 @@
+.caja1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.img {
+    margin: 10px;
+}
+
+p{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.caja2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.img1 {
+    margin: 10px;
+}
